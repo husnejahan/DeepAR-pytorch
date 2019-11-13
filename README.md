@@ -1,10 +1,7 @@
 # List of Implementations:
 Currently, the reimplementation of the DeepAR paper(DeepAR: Probabilistic Forecasting with Autoregressive Recurrent Networks https://arxiv.org/abs/1704.04110) is available in PyTorch. More papers will be coming soon.
 
-## Authors:
-* **Yunkai Zhang**(<yunkai_zhang@ucsb.edu>) - *University of California, Santa Barbara* 
 
-* **Qiao Jiang** - *Brown University*
 
 ## To run:
 
