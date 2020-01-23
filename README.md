@@ -3,6 +3,13 @@ Currently, the reimplementation of the DeepAR paper(DeepAR: Probabilistic Foreca
 
 
 
+Traffic: https://archive.ics.uci.edu/ml/datasets/PEMS-SF
+
+Electricity: https://archive.ics.uci.edu/ml/datasets/ElectricityLoadDiagrams20112014
+
+Parts: https://robjhyndman.com/expsmooth/expsmooth_data.zip
+
+
 ## To run:
 
 
